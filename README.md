@@ -2,8 +2,8 @@
 
 ![PaperClip](https://www.ha-mtl.org/supplies/wp-content/uploads/2015/07/paperclips-small.jpg)
 
-This application was created for my grandmother to use to help her with sending attachments with emails. I decided to name it PaperClip due to the common image of a paper clip being used to attach things to emails.
-She has never been able to quite get it after walking her through the process. So I decided to utilize some of my programming skills to help her out a bit.
+This application was created for my grandmother to use to help her with sending attachments with emails. I decided to name it PaperClip due to the common image of a paper clip being used to attach things to emails. So I decided to utilize some of my programming skills to help her out a bit.
+
 I created a simple GUI utilizing the python module for her to send emails through, Tkinter: https://wiki.python.org/moin/TkInter
 
 ![PaperClip GUI](https://i.imgur.com/PB7ggJB.png)
