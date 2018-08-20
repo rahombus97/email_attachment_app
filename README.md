@@ -44,7 +44,7 @@ Tkinter: https://wiki.python.org/moin/TkInter
 Pull down the repo and change into the directory to run email_attachment_main.py
 
 ```
-cd email_attachment_app
+cd email_attachment_app/src
 python3 email_attachment_main.py
 ```
 
