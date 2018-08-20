@@ -6,9 +6,9 @@ import re
 
 class EmailAttachmentGUI:
 
-    SMTP_SERVER = "SMTP Sever name goes here"
-    FROM_EMAIL_ADDRESS = "From email address goes here"
-    EMAIL_PASSWORD = "Email password goes here"
+    SMTP_SERVER = "SMTP SERVER GOES HERE"
+    FROM_EMAIL_ADDRESS = "FROM EMAIL ADDRESS GOES HERE"
+    EMAIL_PASSWORD = "EMAIL PASSWORD GOES HERE"
 
     def __init__(self, master):
         self.email = ""
@@ -18,7 +18,7 @@ class EmailAttachmentGUI:
         self.master = master
         master.title("Send an email with an attachment here!")
 
-        self.title_label = Label(master, text="Email Attachment Sender", font=("Helvetica", 24))
+        self.title_label = Label(master, text="PaperClip", font=("Helvetica", 24))
 
         self.email_label = Label(master, text="Email to send to:")
         self.email_entry = Entry(master, validate="key")
